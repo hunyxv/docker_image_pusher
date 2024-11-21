@@ -10,4 +10,4 @@ mysql:latest
 
 --platform=linux/arm64 golang:1.22
 
---platform=linux/arm64 vaultwarden/server:latest
+--platform=linux/amd64 vaultwarden/server:latest
