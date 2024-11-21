@@ -9,3 +9,5 @@ mysql:latest
 --platform=linux/arm64 alpine:3.20
 
 --platform=linux/arm64 golang:1.22
+
+--platform=linux/arm64 vaultwarden/server:latest
