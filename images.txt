@@ -13,3 +13,5 @@ mysql:latest
 --platform=linux/amd64 vaultwarden/server:latest
 
 jeessy/ddns-go
+
+nginx
