@@ -16,24 +16,4 @@ jeessy/ddns-go
 
 nginx
 
-bitwarden/mssql
-
-bitwarden/web
-
-bitwarden/attachments
-
-bitwarden/api
-
-bitwarden/identity
-
-bitwarden/sso
-
-bitwarden/admin
-
-bitwarden/icons
-
-bitwarden/notifications
-
-bitwarden/events
-
-bitwarden/nginx
+bitwarden/self-host:beta
