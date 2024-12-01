@@ -10,10 +10,10 @@ mysql:latest
 
 --platform=linux/arm64 golang:1.22
 
---platform=linux/amd64 vaultwarden/server:latest
-
 jeessy/ddns-go
 
 nginx
 
 bitwarden/self-host:beta
+
+vaultwarden/server:latest
