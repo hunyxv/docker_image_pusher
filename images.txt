@@ -18,8 +18,4 @@ bitwarden/self-host:beta
 
 vaultwarden/server:latest
 
-joplin/server:latest
-
-postgres:latest
-
 cloudflare/cloudflared:latest
