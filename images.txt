@@ -21,3 +21,5 @@ vaultwarden/server:latest
 joplin/server:latest
 
 postgres:latest
+
+cloudflare/cloudflared:latest
