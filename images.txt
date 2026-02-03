@@ -19,3 +19,5 @@ bitwarden/self-host:beta
 vaultwarden/server:latest
 
 cloudflare/cloudflared:latest
+
+alpine:latest
